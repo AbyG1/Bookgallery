@@ -49,8 +49,8 @@ section h2 {
 .col {
     width: 250px;
     height: 300px;
-    border: 1px solid red;
-
+    background-color: inherit;
+    border: 2px solid #46392a;
 
 }
 
